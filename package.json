@@ -1,0 +1,17 @@
+{
+  "name": "cfr",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^22.5.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.4.1",
+    "xml2js": "^0.6.2",
+    "xmldom": "^0.6.0"
+  }
+}
